@@ -1,3 +1,4 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<h1> Testing Basic Web Application</h1>
+<h2> Welcome to DevOps concepts, understand CI-CD in detail with configurations.</h2>
+<h2> All the best.Thankyou</h2>
+<h3> Try the same at your side to validate the application</h3>
