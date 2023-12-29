@@ -29,5 +29,5 @@ steps:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'drop'
     publishLocation: 'Container'
-    MaxArtifactSize: 3
+    MaxArtifactSize: 5000
 
